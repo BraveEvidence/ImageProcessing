@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageProcessing</string>
+    <string name="android">Android</string>
+    <string name="click_me">Click Me</string>
+</resources>
